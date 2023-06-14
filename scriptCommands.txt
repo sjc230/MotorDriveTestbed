@@ -1,0 +1,19 @@
+Test Setup Location
+cd /
+cd C:\TestBed\Control_ACIM_F28335_v1
+testsetup.bat 8
+
+
+
+
+dss.bat location: 
+cd C:\ti\ccs1210\ccs\ccs_base\scripting\bin
+
+testServer location for Motor Control
+dss C:\TestBed\Control_ACIM_F28335_v1\test_server.js
+
+
+
+
+*.out file to load.  this is for reference only:
+C:\Users\by51849\workspace_v12\Control_ACIM_F28335_v1\Debug\Control_ACIM_F28335_v1.out

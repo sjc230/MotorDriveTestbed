@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="C:/TestBed/Control_ACIM_F28335_v1/Debug/Control_ACIM_F28335_v1.out"?>
+<log>
+<record>
+  <date>2023-05-09T17:32:43.044499700Z</date>
+  <millis>1683653563044</millis>
+  <nanos>499700</nanos>
+  <sequence>3</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>traceSetFileLevel</method>
+  <thread>32</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:43.044499700Z</date>
+  <millis>1683653563044</millis>
+  <nanos>499700</nanos>
+  <sequence>4</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>setScriptTimeout</method>
+  <thread>32</thread>
+  <message>ENTRY nTimeout: 150000</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:43.044499700Z</date>
+  <millis>1683653563044</millis>
+  <nanos>499700</nanos>
+  <sequence>5</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>setScriptTimeout</method>
+  <thread>32</thread>
+  <message>Timeout is 150000ms</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:43.044499700Z</date>
+  <millis>1683653563044</millis>
+  <nanos>499700</nanos>
+  <sequence>6</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>setScriptTimeout</method>
+  <thread>32</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:43.044499700Z</date>
+  <millis>1683653563044</millis>
+  <nanos>499700</nanos>
+  <sequence>7</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>32</thread>
+  <message>ENTRY sServerName: CCSServer.1</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:43.044499700Z</date>
+  <millis>1683653563044</millis>
+  <nanos>499700</nanos>
+  <sequence>8</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>32</thread>
+  <message>Getting definition for: CCSServer.1</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:43.044499700Z</date>
+  <millis>1683653563044</millis>
+  <nanos>499700</nanos>
+  <sequence>9</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>32</thread>
+  <message>Constructing server</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:43.044499700Z</date>
+  <millis>1683653563044</millis>
+  <nanos>499700</nanos>
+  <sequence>10</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>32</thread>
+  <message>RETURN com.ti.ccstudio.scripting.CCSServer@46a874ba</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.156971200Z</date>
+  <millis>1683653564156</millis>
+  <nanos>971200</nanos>
+  <sequence>11</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>32</thread>
+  <message>ENTRY sServerName: DebugServer.1</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.156971200Z</date>
+  <millis>1683653564156</millis>
+  <nanos>971200</nanos>
+  <sequence>12</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>32</thread>
+  <message>Getting definition for: DebugServer.1</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.156971200Z</date>
+  <millis>1683653564156</millis>
+  <nanos>971200</nanos>
+  <sequence>13</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>32</thread>
+  <message>Constructing server</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.172594500Z</date>
+  <millis>1683653564172</millis>
+  <nanos>594500</nanos>
+  <sequence>14</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>32</thread>
+  <message>RETURN com.ti.debug.engine.scripting.DebugServer@52837d5d</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.172594500Z</date>
+  <millis>1683653564172</millis>
+  <nanos>594500</nanos>
+  <sequence>15</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>setConfig</method>
+  <thread>32</thread>
+  <message>ENTRY sConfigurationFile: C:/TestBed/Control_ACIM_F28335_v1/TMS320F28335.ccxml</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.172594500Z</date>
+  <millis>1683653564172</millis>
+  <nanos>594500</nanos>
+  <sequence>16</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>setConfig</method>
+  <thread>32</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.172594500Z</date>
+  <millis>1683653564172</millis>
+  <nanos>594500</nanos>
+  <sequence>17</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>openSession</method>
+  <thread>32</thread>
+  <message>ENTRY sPattern: .*</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.172594500Z</date>
+  <millis>1683653564172</millis>
+  <nanos>594500</nanos>
+  <sequence>18</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>start</method>
+  <thread>32</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.172594500Z</date>
+  <millis>1683653564172</millis>
+  <nanos>594500</nanos>
+  <sequence>19</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>start</method>
+  <thread>32</thread>
+  <message>Firing: onServerStarting()</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.172594500Z</date>
+  <millis>1683653564172</millis>
+  <nanos>594500</nanos>
+  <sequence>20</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>start</method>
+  <thread>32</thread>
+  <message>Connecting to XPCOM DebugServer</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.172594500Z</date>
+  <millis>1683653564172</millis>
+  <nanos>594500</nanos>
+  <sequence>21</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>start</method>
+  <thread>32</thread>
+  <message>Initializing DebugServer using specified configuration: "C:/TestBed/Control_ACIM_F28335_v1/TMS320F28335.ccxml"</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:44.172594500Z</date>
+  <millis>1683653564172</millis>
+  <nanos>594500</nanos>
+  <sequence>22</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer$Callback</class>
+  <method>waitUntil</method>
+  <thread>32</thread>
+  <message>ENTRY com.ti.ccstudio.scripting.environment.ScriptingEnvironment@19b9fe36 timeout: 150000 (ms)</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:46.330810100Z</date>
+  <millis>1683653566330</millis>
+  <nanos>810100</nanos>
+  <sequence>23</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>33</thread>
+  <message>ENTRY sServerName: DebugServer.1</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:46.330810100Z</date>
+  <millis>1683653566330</millis>
+  <nanos>810100</nanos>
+  <sequence>24</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>33</thread>
+  <message>Getting cached server: DebugServer.1</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:46.330810100Z</date>
+  <millis>1683653566330</millis>
+  <nanos>810100</nanos>
+  <sequence>25</sequence>
+  <logger>com.ti</logger>
+  <level>FINER</level>
+  <class>com.ti.ccstudio.scripting.environment.ScriptingEnvironment</class>
+  <method>getServer</method>
+  <thread>33</thread>
+  <message>RETURN com.ti.debug.engine.scripting.DebugServer@52837d5d</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.376846700Z</date>
+  <millis>1683653569376</millis>
+  <nanos>846700</nanos>
+  <sequence>26</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugSession</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugSession</class>
+  <method>&lt;init&gt;</method>
+  <thread>101</thread>
+  <message>CPU Name: C28xx</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.376846700Z</date>
+  <millis>1683653569376</millis>
+  <nanos>846700</nanos>
+  <sequence>27</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugSession</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugSession</class>
+  <method>&lt;init&gt;</method>
+  <thread>101</thread>
+  <message>PartNum: TMS320F28335</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.413846200Z</date>
+  <millis>1683653569413</millis>
+  <nanos>846200</nanos>
+  <sequence>28</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugSession</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugSession</class>
+  <method>&lt;init&gt;</method>
+  <thread>101</thread>
+  <message>Family: 320</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.413846200Z</date>
+  <millis>1683653569413</millis>
+  <nanos>846200</nanos>
+  <sequence>29</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugSession</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugSession</class>
+  <method>&lt;init&gt;</method>
+  <thread>101</thread>
+  <message>SubFamily/MajorISA: 28</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.413846200Z</date>
+  <millis>1683653569413</millis>
+  <nanos>846200</nanos>
+  <sequence>30</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugSession</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugSession</class>
+  <method>&lt;init&gt;</method>
+  <thread>101</thread>
+  <message>Revision/MinorISA: 127</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.413846200Z</date>
+  <millis>1683653569413</millis>
+  <nanos>846200</nanos>
+  <sequence>31</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugSession</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugSession</class>
+  <method>&lt;init&gt;</method>
+  <thread>101</thread>
+  <message>Platform: EMULATOR</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.413846200Z</date>
+  <millis>1683653569413</millis>
+  <nanos>846200</nanos>
+  <sequence>32</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugSession</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugSession</class>
+  <method>&lt;init&gt;</method>
+  <thread>101</thread>
+  <message>Processor ID: 1342219256</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.426845600Z</date>
+  <millis>1683653569426</millis>
+  <nanos>845600</nanos>
+  <sequence>33</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer$Callback</class>
+  <method>waitUntil</method>
+  <thread>32</thread>
+  <message>RETURN com.ti.ccstudio.scripting.environment.ScriptingEnvironment@19b9fe36</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.427844900Z</date>
+  <millis>1683653569427</millis>
+  <nanos>844900</nanos>
+  <sequence>34</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>start</method>
+  <thread>32</thread>
+  <message>Firing: onServerStarted()</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.427844900Z</date>
+  <millis>1683653569427</millis>
+  <nanos>844900</nanos>
+  <sequence>35</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>start</method>
+  <thread>32</thread>
+  <message>Searching for devices</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.427844900Z</date>
+  <millis>1683653569427</millis>
+  <nanos>844900</nanos>
+  <sequence>36</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>listDevices</method>
+  <thread>32</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.427844900Z</date>
+  <millis>1683653569427</millis>
+  <nanos>844900</nanos>
+  <sequence>37</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>listDevices</method>
+  <thread>32</thread>
+  <message>Found debuggable device: Texas Instruments XDS100v3 USB Debug Probe/C28xx</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.427844900Z</date>
+  <millis>1683653569427</millis>
+  <nanos>844900</nanos>
+  <sequence>38</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>listDevices</method>
+  <thread>32</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.427844900Z</date>
+  <millis>1683653569427</millis>
+  <nanos>844900</nanos>
+  <sequence>39</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>start</method>
+  <thread>32</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.427844900Z</date>
+  <millis>1683653569427</millis>
+  <nanos>844900</nanos>
+  <sequence>40</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>openSession</method>
+  <thread>32</thread>
+  <message>Searching for device exactly matching name: .*</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.428845100Z</date>
+  <millis>1683653569428</millis>
+  <nanos>845100</nanos>
+  <sequence>41</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>openSession</method>
+  <thread>32</thread>
+  <message>No exact name matches found.  Searching for device matching regular expression: .*</message>
+</record>
+<record>
+  <date>2023-05-09T17:32:49.441844900Z</date>
+  <millis>1683653569441</millis>
+  <nanos>844900</nanos>
+  <sequence>42</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugServer</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.DebugServer</class>
+  <method>openSession</method>
+  <thread>32</thread>
+  <message>RETURN Texas Instruments XDS100v3 USB Debug Probe/C28xx</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:01.725794800Z</date>
+  <millis>1683653581725</millis>
+  <nanos>794800</nanos>
+  <sequence>43</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:01.726794900Z</date>
+  <millis>1683653581726</millis>
+  <nanos>794900</nanos>
+  <sequence>44</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>Target is not connected</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:01.726794900Z</date>
+  <millis>1683653581726</millis>
+  <nanos>794900</nanos>
+  <sequence>45</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>RETURN false</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:01.726794900Z</date>
+  <millis>1683653581726</millis>
+  <nanos>794900</nanos>
+  <sequence>46</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>connect</method>
+  <thread>102</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:01.726794900Z</date>
+  <millis>1683653581726</millis>
+  <nanos>794900</nanos>
+  <sequence>47</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:01.726794900Z</date>
+  <millis>1683653581726</millis>
+  <nanos>794900</nanos>
+  <sequence>48</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>Target is not connected</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:01.726794900Z</date>
+  <millis>1683653581726</millis>
+  <nanos>794900</nanos>
+  <sequence>49</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>RETURN false</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:01.726794900Z</date>
+  <millis>1683653581726</millis>
+  <nanos>794900</nanos>
+  <sequence>50</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>connect</method>
+  <thread>102</thread>
+  <message>Requesting target connect</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:01.727794700Z</date>
+  <millis>1683653581727</millis>
+  <nanos>794700</nanos>
+  <sequence>51</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target$OnConnectedListener</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>ENTRY timeout: 150000 (ms)</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.082684600Z</date>
+  <millis>1683653583082</millis>
+  <nanos>684600</nanos>
+  <sequence>52</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.AbstractListener</class>
+  <method>log</method>
+  <thread>36</thread>
+  <message>Target is now connected</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.082684600Z</date>
+  <millis>1683653583082</millis>
+  <nanos>684600</nanos>
+  <sequence>53</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target$OnConnectedListener</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.082684600Z</date>
+  <millis>1683653583082</millis>
+  <nanos>684600</nanos>
+  <sequence>54</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.082684600Z</date>
+  <millis>1683653583082</millis>
+  <nanos>684600</nanos>
+  <sequence>55</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>Target is connected</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.082684600Z</date>
+  <millis>1683653583082</millis>
+  <nanos>684600</nanos>
+  <sequence>56</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>RETURN true</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.082684600Z</date>
+  <millis>1683653583082</millis>
+  <nanos>684600</nanos>
+  <sequence>57</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>connect</method>
+  <thread>102</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.083685300Z</date>
+  <millis>1683653583083</millis>
+  <nanos>685300</nanos>
+  <sequence>58</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.084685Z</date>
+  <millis>1683653583084</millis>
+  <nanos>685000</nanos>
+  <sequence>59</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>Target is connected</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.084685Z</date>
+  <millis>1683653583084</millis>
+  <nanos>685000</nanos>
+  <sequence>60</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>RETURN true</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.084685Z</date>
+  <millis>1683653583084</millis>
+  <nanos>685000</nanos>
+  <sequence>61</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>loadProgram</method>
+  <thread>102</thread>
+  <message>ENTRY sFileName: C:/TestBed/Control_ACIM_F28335_v1/Debug/Control_ACIM_F28335_v1.out</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.084685Z</date>
+  <millis>1683653583084</millis>
+  <nanos>685000</nanos>
+  <sequence>62</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>load</method>
+  <thread>102</thread>
+  <message>Requesting program load</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.086684700Z</date>
+  <millis>1683653583086</millis>
+  <nanos>684700</nanos>
+  <sequence>63</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.APIContainer$OnCompleteWithErrorInfo</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>ENTRY timeout: 150000 (ms)</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.514709Z</date>
+  <millis>1683653583514</millis>
+  <nanos>709000</nanos>
+  <sequence>64</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.APIContainer$OnCompleteWithErrorInfo</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.514709Z</date>
+  <millis>1683653583514</millis>
+  <nanos>709000</nanos>
+  <sequence>65</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>load</method>
+  <thread>102</thread>
+  <message>Program load successful</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.514709Z</date>
+  <millis>1683653583514</millis>
+  <nanos>709000</nanos>
+  <sequence>66</sequence>
+  <logger>com.ti.debug.engine.scripting.Options</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Options</class>
+  <method>getBoolean</method>
+  <thread>102</thread>
+  <message>ENTRY ID: AutoRunToLabelOnRestart</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.514709Z</date>
+  <millis>1683653583514</millis>
+  <nanos>709000</nanos>
+  <sequence>67</sequence>
+  <logger>com.ti.debug.engine.scripting.Options</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Options</class>
+  <method>getBoolean</method>
+  <thread>102</thread>
+  <message>RETURN true</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.516738100Z</date>
+  <millis>1683653583516</millis>
+  <nanos>738100</nanos>
+  <sequence>68</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.APIContainer</class>
+  <method>waitForHaltIfPropertySet</method>
+  <thread>102</thread>
+  <message>Waiting for halt</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.516738100Z</date>
+  <millis>1683653583516</millis>
+  <nanos>738100</nanos>
+  <sequence>69</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.APIContainer$OnHaltListener</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>ENTRY timeout: 150000 (ms)</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.520737300Z</date>
+  <millis>1683653583520</millis>
+  <nanos>737300</nanos>
+  <sequence>70</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.AbstractListener</class>
+  <method>log</method>
+  <thread>36</thread>
+  <message>Target has halted at 0x0000953A</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.520737300Z</date>
+  <millis>1683653583520</millis>
+  <nanos>737300</nanos>
+  <sequence>71</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.APIContainer$OnHaltListener</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:33:03.520737300Z</date>
+  <millis>1683653583520</millis>
+  <nanos>737300</nanos>
+  <sequence>72</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>loadProgram</method>
+  <thread>102</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.008203200Z</date>
+  <millis>1683654236008</millis>
+  <nanos>203200</nanos>
+  <sequence>73</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>ENTRY nPage: 0 nAddress: 0xc00c nValues: 0x1 nTypeSize: 32</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.008203200Z</date>
+  <millis>1683654236008</millis>
+  <nanos>203200</nanos>
+  <sequence>74</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Validating page</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.009203300Z</date>
+  <millis>1683654236009</millis>
+  <nanos>203300</nanos>
+  <sequence>75</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Validating start address</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.010206Z</date>
+  <millis>1683654236010</millis>
+  <nanos>206000</nanos>
+  <sequence>76</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Getting memory object from debug session</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.010206Z</date>
+  <millis>1683654236010</millis>
+  <nanos>206000</nanos>
+  <sequence>77</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Setting start address: 0xc00c</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.040741400Z</date>
+  <millis>1683654236040</millis>
+  <nanos>741400</nanos>
+  <sequence>78</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Setting buffer length: 2</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.040741400Z</date>
+  <millis>1683654236040</millis>
+  <nanos>741400</nanos>
+  <sequence>79</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Filling buffer</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.040741400Z</date>
+  <millis>1683654236040</millis>
+  <nanos>741400</nanos>
+  <sequence>80</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Writing 1 value(s) to target</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.041749700Z</date>
+  <millis>1683654236041</millis>
+  <nanos>749700</nanos>
+  <sequence>81</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Requesting memory write of 1 value(s) to target</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.042749700Z</date>
+  <millis>1683654236042</millis>
+  <nanos>749700</nanos>
+  <sequence>82</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory$OnMemoryRequestCompleteListener</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>ENTRY timeout: 150000 (ms)</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.046747600Z</date>
+  <millis>1683654236046</millis>
+  <nanos>747600</nanos>
+  <sequence>83</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory$OnMemoryRequestCompleteListener</class>
+  <method>onEvent</method>
+  <thread>36</thread>
+  <message>Memory request complete</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.046747600Z</date>
+  <millis>1683654236046</millis>
+  <nanos>747600</nanos>
+  <sequence>84</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory$OnMemoryRequestCompleteListener</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:43:56.047747400Z</date>
+  <millis>1683654236047</millis>
+  <nanos>747400</nanos>
+  <sequence>85</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.153526700Z</date>
+  <millis>1683654260153</millis>
+  <nanos>526700</nanos>
+  <sequence>86</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>ENTRY nPage: 0 nAddress: 0xc00c nValues: 0x0 nTypeSize: 32</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.154534900Z</date>
+  <millis>1683654260154</millis>
+  <nanos>534900</nanos>
+  <sequence>87</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Validating page</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.154534900Z</date>
+  <millis>1683654260154</millis>
+  <nanos>534900</nanos>
+  <sequence>88</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Validating start address</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.154534900Z</date>
+  <millis>1683654260154</millis>
+  <nanos>534900</nanos>
+  <sequence>89</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Getting memory object from debug session</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.154534900Z</date>
+  <millis>1683654260154</millis>
+  <nanos>534900</nanos>
+  <sequence>90</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Setting start address: 0xc00c</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.155594400Z</date>
+  <millis>1683654260155</millis>
+  <nanos>594400</nanos>
+  <sequence>91</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Setting buffer length: 2</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.155594400Z</date>
+  <millis>1683654260155</millis>
+  <nanos>594400</nanos>
+  <sequence>92</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Filling buffer</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.155594400Z</date>
+  <millis>1683654260155</millis>
+  <nanos>594400</nanos>
+  <sequence>93</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Writing 1 value(s) to target</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.155594400Z</date>
+  <millis>1683654260155</millis>
+  <nanos>594400</nanos>
+  <sequence>94</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>Requesting memory write of 1 value(s) to target</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.155594400Z</date>
+  <millis>1683654260155</millis>
+  <nanos>594400</nanos>
+  <sequence>95</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory$OnMemoryRequestCompleteListener</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>ENTRY timeout: 150000 (ms)</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.156534900Z</date>
+  <millis>1683654260156</millis>
+  <nanos>534900</nanos>
+  <sequence>96</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory$OnMemoryRequestCompleteListener</class>
+  <method>onEvent</method>
+  <thread>36</thread>
+  <message>Memory request complete</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.157535700Z</date>
+  <millis>1683654260157</millis>
+  <nanos>535700</nanos>
+  <sequence>97</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory$OnMemoryRequestCompleteListener</class>
+  <method>waitUntil</method>
+  <thread>102</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:44:20.157535700Z</date>
+  <millis>1683654260157</millis>
+  <nanos>535700</nanos>
+  <sequence>98</sequence>
+  <logger>com.ti.debug.engine.scripting.Memory</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Memory</class>
+  <method>writeData</method>
+  <thread>102</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2023-05-09T17:58:56.058835600Z</date>
+  <millis>1683655136058</millis>
+  <nanos>835600</nanos>
+  <sequence>99</sequence>
+  <logger>com.ti.debug.engine.scripting.DebugSession</logger>
+  <level>SEVERE</level>
+  <class>com.ti.debug.engine.scripting.DebugSession$DebuggerErrorListener</class>
+  <method>onEvent</method>
+  <thread>36</thread>
+  <message>C28xx: Power Failure on Target CPU 
+</message>
+</record>
+<record>
+  <date>2023-05-09T18:02:17.897491Z</date>
+  <millis>1683655337897</millis>
+  <nanos>491000</nanos>
+  <sequence>100</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-05-09T18:02:17.897491Z</date>
+  <millis>1683655337897</millis>
+  <nanos>491000</nanos>
+  <sequence>101</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>Target is not connected</message>
+</record>
+<record>
+  <date>2023-05-09T18:02:17.897491Z</date>
+  <millis>1683655337897</millis>
+  <nanos>491000</nanos>
+  <sequence>102</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>RETURN false</message>
+</record>
+<record>
+  <date>2023-05-09T18:02:17.897491Z</date>
+  <millis>1683655337897</millis>
+  <nanos>491000</nanos>
+  <sequence>103</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-05-09T18:02:17.897491Z</date>
+  <millis>1683655337897</millis>
+  <nanos>491000</nanos>
+  <sequence>104</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>Target is not connected</message>
+</record>
+<record>
+  <date>2023-05-09T18:02:17.897491Z</date>
+  <millis>1683655337897</millis>
+  <nanos>491000</nanos>
+  <sequence>105</sequence>
+  <logger>com.ti.debug.engine.scripting.Target</logger>
+  <level>FINER</level>
+  <class>com.ti.debug.engine.scripting.Target</class>
+  <method>isConnected</method>
+  <thread>102</thread>
+  <message>RETURN false</message>
+</record>

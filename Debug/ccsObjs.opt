@@ -1,0 +1,10 @@
+"./Control_ACIM_F28335_AttackSim_c1_main.obj"
+"./DSP2833x_ADC_cal.obj"
+"./DSP2833x_CodeStartBranch.obj"
+"./DSP2833x_DevInit.obj"
+"./DSP2833x_GlobalVariableDefs.obj"
+"./DSP2833x_usDelay.obj"
+"../DSP2833x_Headers_nonBIOS.cmd"
+"../F28335_RAM_HVPM.cmd"
+"C:/ti/controlSUITE/libs/math/IQmath/v15c/lib/IQmath.lib"
+-llibc.a
